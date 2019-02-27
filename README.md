@@ -18,6 +18,8 @@ Starter kit with zero-config for testing LeetCode answer in JavaScript, supporte
 
    # Install development dependencies
    npm run install
+   # or use yarn (recommended)
+   yarn
    ```
 
 2. Setup vscode
@@ -40,10 +42,12 @@ Starter kit with zero-config for testing LeetCode answer in JavaScript, supporte
 
 3. Enjoying!
 
-   Put your test cases into src too with named `xx.test.js`
+   Put your test cases into `src` too with named `xx.test.js`
 
    Run under script to start!
 
    ```bash
    npm start
+   # or
+   yarn start
    ```
